@@ -1,0 +1,2 @@
+**Emacs**
+It's a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor".
