@@ -5,3 +5,4 @@ management (SCM) functionality of Git, plus its own features. It provides
 access control and several collaboration features such as bug tracking, 
 feature requests, task management, continuous integration and wikis for every
 project.
+*Eddie HG*
